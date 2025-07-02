@@ -1,0 +1,3 @@
+# rafa-lift
+
+- projetinho open-source pra ir pra acad e saber oq comer, algum dia termino...
